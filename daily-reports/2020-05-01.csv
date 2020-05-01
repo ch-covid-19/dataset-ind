@@ -1,5 +1,5 @@
 date,postal_code,latitude,longitude,healthy,sick_guess_no_corona,sick_guess_corona,sick_corona_confirmed,recovered_confirmed,recovered_not_confirmed
-2020-05-01,600088,80.2035,12.9918,16,0,1,0,0,3
+2020-05-01,600088,80.2035,12.9918,17,0,1,0,0,3
 2020-05-01,641041,77.2033,10.7079,1,0,0,0,0,0
 2020-05-01,639113,78.0849,11.0748,2,0,0,0,0,0
 2020-05-01,600045,80.1271,12.9246,3,0,0,0,0,0
